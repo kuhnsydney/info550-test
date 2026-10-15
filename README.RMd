@@ -1,0 +1,13 @@
+---
+title: My first git repo
+author: Sydney Kuhn
+output: github_document
+---
+
+#My first commit
+
+Here is some text that constitutes my first commit in my first repo.
+
+# My second commit
+
+Here is more text that will be added into my second commit.
